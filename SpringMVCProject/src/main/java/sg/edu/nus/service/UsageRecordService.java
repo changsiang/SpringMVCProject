@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Date;
 
 import sg.edu.nus.model.UsageRecord;
-import sg.edu.nus.model.UsageRecordDetail;
 
 public interface UsageRecordService {
 

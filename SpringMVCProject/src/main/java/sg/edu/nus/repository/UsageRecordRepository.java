@@ -8,7 +8,6 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 import sg.edu.nus.model.UsageRecord;
-import sg.edu.nus.model.UsageRecordDetail;
 
 public interface UsageRecordRepository extends JpaRepository<UsageRecord, Integer>{
 

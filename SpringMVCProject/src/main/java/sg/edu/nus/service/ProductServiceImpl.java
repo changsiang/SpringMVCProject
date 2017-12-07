@@ -1,12 +1,10 @@
 package sg.edu.nus.service;
 
 import java.util.ArrayList;
-import java.util.Optional;
-
 import javax.annotation.Resource;
 
-import org.springframework.core.convert.converter.Converter;
 import org.springframework.transaction.annotation.Transactional;
+
 
 import sg.edu.nus.model.Product;
 import sg.edu.nus.repository.ProductRepository;
